@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Project Alpha",
+    "url": "https://github.com/gadhiyafalgun-arch/project-alpha",
+    "image": "https://raw.githubusercontent.com/gadhiyafalgun-arch/project-alpha/main/preview.png",
+    "description": "Short 1-line description"
+  },
+  {
+    "name": "Project Beta",
+    "url": "https://github.com/gadhiyafalgun-arch/project-beta",
+    "image": "https://raw.githubusercontent.com/gadhiyafalgun-arch/project-beta/main/preview.png",
+    "description": "Short 1-line description"
+  }
+]
