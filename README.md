@@ -1,64 +1,74 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:ff006e,100:00d4ff&height=220&section=header&text=Falgun%20Gadhiya&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=ML%20Enthusiast%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=20&animation=fadeIn" alt="Falgun Gadhiya header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Falgun%20Gadhiya&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Physics%20%7C%20Data%20Science%20%7C%20Algorithmic%20Trading&descAlignY=60&descSize=20&animation=fadeIn" alt="Falgun Gadhiya header" />
 
 <!-- Typing tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=%3E+ML+Enthusiast+%26+Web+Developer;%3E+Building+meaningful+things+%F0%9F%9A%80;%3E+Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=%3E+M.S.+Physics+%7C+Data+Scientist;%3E+Built+a+full-stack+algo+trading+engine+%F0%9F%9A%80;%3E+Quantum+simulations+to+production+code" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social badges -->
-[![Followers](https://img.shields.io/github/followers/gadhiyafalgun-arch?label=Followers&style=social)](https://github.com/gadhiyafalgun-arch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-linkedin)
-[![Resume](https://img.shields.io/badge/Resume-PDF-00D4FF?style=flat&logo=document)](link-to-resume.pdf)
-[![Contact](https://img.shields.io/badge/Email-gadhiyafalgun.02@gmail.com-green?style=flat&logo=gmail)](mailto:gadhiyafalgun.02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gadhiyafalgun.02@gmail.com-green?style=flat&logo=gmail)](mailto:gadhiyafalgun.02@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-00D4FF?style=flat&logo=adobeacrobatreader)](link-to-resume.pdf)
 
 </div>
 
 ---
 
 ## 👋 Hi, I'm Falgun
-ML enthusiast, web developer and builder. I create small ML projects and full-stack web apps that solve real problems. I enjoy experimenting, learning, and shipping tidy, useful tools.
 
-One-line mission: Build thoughtful ML & web solutions that are easy to use and easy to extend.
+M.S. Physics graduate who builds systems that work. My background spans quantum simulations, energy storage materials research, and ionospheric physics — but I'm just as comfortable shipping production Python code and full-stack web apps.
+
+**One-line mission:** Turn complex research and data problems into clean, automated, production-ready tools.
 
 ---
 
 ## Quick links
-- 🔭 Current: Working on [Project-Alpha](https://github.com/gadhiyafalgun-arch/project-alpha)
-- 💬 Ask me about: Python, PyTorch, Flask, React
+- 🔭 Current: Finishing M.S. Physics @ Pittsburg State University (Dec 2025)
+- 🏦 Featured: Full-stack algorithmic trading engine — designed, built, tested, and deployed solo
+- 🔬 Research: Quantum matrix automation · Energy storage materials · Ionospheric physics
+- 💬 Ask me about: Python, NumPy/SciPy, data pipelines, statistical analysis, algo trading
 - 📫 Email: gadhiyafalgun.02@gmail.com
-- 🔗 Resume: link-to-resume.pdf
 
 ---
 
 ## ⭐ Featured Projects
-<div align="center">
 
-<!-- Project placeholders: replace images & links -->
-<a href="https://github.com/gadhiyafalgun-arch/project-alpha" target="_blank" style="text-decoration:none; margin-right:14px">
-  <img src="https://raw.githubusercontent.com/gadhiyafalgun-arch/project-alpha/main/preview.png" alt="Project Alpha preview" width="260" style="border-radius:8px; box-shadow: 0 6px 20px rgba(0,0,0,0.12)"/>
-  <div><strong>Project Alpha</strong> — short 1-line description</div>
-</a>
+### 🤖 Full-Stack Algorithmic Trading Engine
+> Designed, built, tested, and deployed entirely solo — end to end.
 
-<a href="https://github.com/gadhiyafalgun-arch/project-beta" target="_blank" style="text-decoration:none; margin-left:14px">
-  <img src="https://raw.githubusercontent.com/gadhiyafalgun-arch/project-beta/main/preview.png" alt="Project Beta preview" width="260" style="border-radius:8px; box-shadow: 0 6px 20px rgba(0,0,0,0.12)"/>
-  <div><strong>Project Beta</strong> — short 1-line description</div>
-</a>
+A complete algorithmic trading system built from scratch. Covers strategy design, backtesting pipelines, live execution, and a full-stack web interface for monitoring. Every layer — quant logic, backend API, and frontend dashboard — written and deployed independently.
 
-</div>
+[![Repo](https://img.shields.io/badge/GitHub-algo--trading--engine-181717?logo=github&style=flat)](https://github.com/gadhiyafalgun-arch)
+
+---
+
+### ⚛️ Scalable Quantum Matrix Automation Tool
+> Turned a week-long manual calculation into a 30-minute automated process.
+
+A Python-based quantum matrix computation framework using NumPy and SciPy. Modular, vectorized, and built to support large-scale quantum mechanical simulations that were previously infeasible manually.
+
+---
+
+### 🔋 Energy Storage Materials Analysis (NIMA Research Facility)
+> ~10,000 data points analyzed; regression + causal inference in Python.
+
+Systematic materials characterization experiments using DOE methodology. Applied regression analysis, hypothesis testing, and anomaly detection to uncover performance patterns and guide material formulation.
 
 ---
 
 ## 🔧 Tech & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,react,nodejs,docker,git" alt="tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,sklearn,flask,react,docker,git,postgres,tableau,jupyter" alt="tech icons" />
 </p>
 
-- Languages: Python, JavaScript (React)
-- ML: PyTorch, scikit-learn, pandas
-- Dev: Docker, Git, CI/CD
+**Languages & Frameworks:** Python, JavaScript (React), SQL  
+**Scientific / ML:** NumPy, SciPy, Pandas, Scikit-learn, Jupyter  
+**Data & Analytics:** Snowflake, Tableau, Regression, A/B Testing, Causal Inference, DOE  
+**Dev & Deployment:** Docker, Git, CI/CD, REST APIs, Flask  
 
 ---
 
@@ -72,22 +82,39 @@ One-line mission: Build thoughtful ML & web solutions that are easy to use and e
 
 ## 👾 Quick profile (terminal style)
 ```text
-╔════════════════════════════════════════════════════════════╗
-║  > SYSTEM BOOT ..................................... [OK]  ║
-║  > LOADING USER PROFILE ............................ [OK]  ║
-╠════════════════════════════════════════════════════════════╣
-║  class Falgun:                                              ║
-║      name     = "Falgun Gadhiya"                            ║
-║      role     = "ML Enthusiast & Web Developer"             ║
-║      email    = "gadhiyafalgun.02@gmail.com"                ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  > SYSTEM BOOT ....................................... [OK]  ║
+║  > LOADING USER PROFILE .............................. [OK]  ║
+╠══════════════════════════════════════════════════════════════╣
+║  class Falgun:                                               ║
+║      name       = "Falgun Gadhiya"                           ║
+║      degree     = "M.S. Physics, Pittsburg State Univ."      ║
+║      role       = "Data Scientist & Quant Developer"         ║
+║      superpower = "Research → Production Code"               ║
+║      email      = "gadhiyafalgun.02@gmail.com"               ║
+║                                                              ║
+║      research   = ["Quantum Systems", "Materials Sci",       ║
+║                    "Ionospheric Physics"]                    ║
+║      built      = ["Algo Trading Engine (full-stack)",       ║
+║                    "Quantum Matrix Automation Tool",         ║
+║                    "Materials Analysis Pipelines"]           ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## What I'm building
-- Small ML research experiments focusing on practical pipelines.
-- Full-stack demos for sharing and teaching ML ideas.
+## What I'm working on
+- Continuing development on the full-stack algorithmic trading engine
+- Quantum matrix automation framework for scalable research simulations
+- Exploring applications of causal inference in financial data
+
+---
+
+## 📚 Background
+- **M.S. Physics** — Pittsburg State University (GPA: 3.57) — Jan 2024–Dec 2025
+- **B.S. Physics** — Sir P. T. Sarvajanik College of Science, Gujarat, India — 2021–2023
+- **Research Intern** — NIMA Research Facility (Energy Storage Materials) — 2023–2025
+- **Research Intern** — Ganpat University (Ionospheric Physics) — Jun–Aug 2023
 
 ---
 
@@ -95,15 +122,14 @@ One-line mission: Build thoughtful ML & web solutions that are easy to use and e
 <details>
   <summary>Contact & Socials</summary>
 
-- Email: gadhiyafalgun.02@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin  
-- GitHub: https://github.com/gadhiyafalgun-arch
+- 📧 Email: gadhiyafalgun.02@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 🐙 GitHub: https://github.com/gadhiyafalgun-arch
 
 </details>
 
 ---
 
-<!-- LAST_UPDATED block: the workflow will replace text between these tags -->
 <p align="center">
   <sub><!--LAST_UPDATED-->Last updated: Not updated yet<!--/LAST_UPDATED--></sub>
 </p>
@@ -116,7 +142,6 @@ One-line mission: Build thoughtful ML & web solutions that are easy to use and e
   </picture>
 </p>
 
-<!-- Footer small note -->
 <p align="center">
   <sub>Made with ❤️ — feel free to fork and customize.</sub>
 </p>
