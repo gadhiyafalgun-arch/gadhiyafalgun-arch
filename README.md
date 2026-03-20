@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Cyberpunk header -->
+<!-- Cyberpunk header — white name with neon green glow stroke -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,60:00ff9f,100:ff006e&height=240&section=header&text=FALGUN%20GADHIYA&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=%5B%20Physics%20%2F%2F%20Data%20Science%20%2F%2F%20Quant%20Systems%20%5D&descAlignY=60&descSize=18&animation=blinking&stroke=00ff9f&strokeWidth=2" alt="Falgun Gadhiya" />
 
 <!-- Terminal typing -->
@@ -8,18 +8,15 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF006E?style=for-the-badge&logoColor=white)](https://gadhiyafalgun-arch.github.io/about-me)
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadhiyafalgun.02@gmail.com)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00ff9f)](mailto:gadhiyafalgun.02@gmail.com)
 [![GitHub](https://img.shields.io/badge/%F0%9F%90%99_GitHub-00FF9F?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gadhiyafalgun-arch)
 [![Resume](https://img.shields.io/badge/%F0%9F%93%84_Resume-1a1a2e?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff9f)](link-to-resume.pdf)
 
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gadhiyafalgun-arch.gadhiyafalgun-arch&left_color=0d0d0d&right_color=00ff9f&left_text=VISITORS)
-
-<!-- Animated cursor crosshair SVG -->
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=2&width=100%" />
 
 </div>
 
@@ -37,18 +34,19 @@ class Falgun:
     role        = "Data Scientist  |  Quant Developer  |  Research Engineer"
     superpower  = "Turning week-long manual calculations into 30-min automated pipelines"
     email       = "gadhiyafalgun.02@gmail.com"
+    portfolio   = "https://gadhiyafalgun-arch.github.io/about-me"
 
     research    = [
-        "Quantum Systems        → automated Hilbert-space simulations from scratch",
-        "Supercapacitor R&D     → designed & rigorously tested novel electrode material",
-        "Ionospheric Seismology → detected pre-quake ionosphere anomalies; 15-30d warning"
+        "Quantum Systems        → automated large-scale Hilbert-space simulations",
+        "Supercapacitor R&D     → designed, built & rigorously tested novel electrode material",
+        "Ionospheric Seismology → detected pre-earthquake anomalies; 15-30 day warning system"
     ]
 
     projects    = {
-        "α": "Full-Stack Algo Trading Engine    → solo build, end-to-end, deployed",
-        "β": "Quantum Matrix Automation Tool    → NumPy/SciPy, week→30min runtime",
-        "γ": "Regime-Switching Stat Arb         → pairs trading + regime detection",
-        "…": "More in development               → [ CLASSIFIED ]"
+        "α": "Algorithmic Trading Engine  → solo build, end-to-end, deployed",
+        "β": "Quantum Matrix Automation   → NumPy/SciPy, week → 30min runtime",
+        "γ": "Regime-Switching Stat Arb   → pairs trading + regime detection",
+        "…": "More in development         → [ CLASSIFIED ]"
     }
 
     stack       = ["Python", "NumPy", "SciPy", "Pandas", "Scikit-learn",
@@ -67,11 +65,13 @@ class Falgun:
 
 <table>
 <tr>
+
 <!-- ALPHA -->
 <td width="33%" valign="top">
 
-### **α** [`project-alpha`](https://github.com/gadhiyafalgun-arch/project-alpha)
-### Algo Trading Engine
+### **α** — Algo Trading Engine
+
+[![Repo](https://img.shields.io/badge/GitHub-algorithmic--trading--engine-181717?style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/algorithmic-trading-engine)
 
 > **Solo build. End to end.**
 
@@ -79,20 +79,22 @@ Complete full-stack algorithmic trading system — designed, coded, backtested a
 
 - 📊 Strategy design & backtesting
 - ⚡ Live execution engine
-- 🖥️ Full-stack dashboard
+- 🖥️ Full-stack monitoring dashboard
 - 🚀 Tested & deployed in prod
 
 Every layer — quant logic, API, UI — shipped solo.
 
-[![Stars](https://img.shields.io/github/stars/gadhiyafalgun-arch/project-alpha?color=ff006e&style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/project-alpha)
-[![Lang](https://img.shields.io/github/languages/top/gadhiyafalgun-arch/project-alpha?color=00ff9f&style=flat-square)](https://github.com/gadhiyafalgun-arch/project-alpha)
+[![Stars](https://img.shields.io/github/stars/gadhiyafalgun-arch/algorithmic-trading-engine?color=ff006e&style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/algorithmic-trading-engine)
+[![Lang](https://img.shields.io/github/languages/top/gadhiyafalgun-arch/algorithmic-trading-engine?color=00ff9f&style=flat-square)](https://github.com/gadhiyafalgun-arch/algorithmic-trading-engine)
 
 </td>
+
 <!-- BETA -->
 <td width="33%" valign="top">
 
-### **β** [`project-beta`](https://github.com/gadhiyafalgun-arch/project-beta)
-### Quantum Matrix Automation
+### **β** — Quantum Matrix Automation
+
+[![Repo](https://img.shields.io/badge/GitHub-quantum--matrix--tool-181717?style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch)
 
 > **Week → 30 minutes.**
 
@@ -100,22 +102,23 @@ Python framework for large-scale quantum mechanical computation. Built to run si
 
 - ⚛️ Modular vectorized engine
 - 🔬 High-dimensional data mgmt
-- 📐 Numerically validated
-- 📦 Production-ready + docs
+- 📐 Numerically accuracy validated
+- 📦 Production-ready + full docs
 
-[![Stars](https://img.shields.io/github/stars/gadhiyafalgun-arch/project-beta?color=ff006e&style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/project-beta)
-[![Lang](https://img.shields.io/github/languages/top/gadhiyafalgun-arch/project-beta?color=00ff9f&style=flat-square)](https://github.com/gadhiyafalgun-arch/project-beta)
+_Repo link coming soon — in final cleanup_
 
 </td>
+
 <!-- GAMMA -->
 <td width="33%" valign="top">
 
-### **γ** [`regime-stat-arb`](https://github.com/gadhiyafalgun-arch/regime-stat-arb)
-### Regime-Switching Stat Arb
+### **γ** — Regime-Switching Stat Arb
+
+[![Repo](https://img.shields.io/badge/GitHub-regime--stat--arb-181717?style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/regime-stat-arb)
 
 > **Market regimes × mean reversion.**
 
-Pairs trading system with regime detection. Identifies market states to dynamically adapt statistical arbitrage signals.
+Pairs trading system with regime detection. Dynamically adapts statistical arbitrage signals based on identified market state.
 
 - 📈 Regime detection engine
 - 🔗 Cointegration & pairs logic
@@ -126,6 +129,7 @@ Pairs trading system with regime detection. Identifies market states to dynamica
 [![Lang](https://img.shields.io/github/languages/top/gadhiyafalgun-arch/regime-stat-arb?color=00ff9f&style=flat-square)](https://github.com/gadhiyafalgun-arch/regime-stat-arb)
 
 </td>
+
 </tr>
 </table>
 
@@ -134,7 +138,7 @@ Pairs trading system with regime detection. Identifies market states to dynamica
 <div align="center">
 
 ```
-[ δ ] [ ε ] [ ζ ] [ η ] ...  ██████░░░░ MORE PROJECTS IN DEVELOPMENT
+[ δ ] [ ε ] [ ζ ] [ η ] ...  ████░░░░░░  MORE PROJECTS IN DEVELOPMENT
 ```
 
 </div>
@@ -202,22 +206,18 @@ Pairs trading system with regime detection. Identifies market states to dynamica
 
 ## `>> RESEARCH_LOG`
 
-<div align="center">
-
 ### ⚛️ Pittsburg State University — Quantum Matrix Automation `2025`
 > Independently designed and built a Python automation framework for large-scale quantum matrix computations using NumPy/SciPy. Turned a week-long manual process into a 30-minute automated pipeline. Production-ready, fully documented, deployed.
 
 ---
 
 ### ⚡ NIMA Research Facility — Supercapacitor Material Development `Jun 2023 – Aug 2025`
-> Designed and rigorously executed systematic experiments to develop novel **supercapacitor electrode materials**. Used Design of Experiments (DOE) methodology — designing, testing, and iterating repeatedly to optimize conductivity, energy density, and cycle stability. Analyzed ~10,000 datapoints in Python (Pandas, SciPy) with regression, anomaly detection, and causal inference. Identified unexpected degradation patterns and used root cause analysis to improve material performance across iterations.
+> Designed and rigorously executed systematic experiments to develop novel **supercapacitor electrode materials**. Used Design of Experiments (DOE) — designing, building, testing, and iterating repeatedly to optimize conductivity, energy density, and cycle stability. Analyzed ~10,000 datapoints with regression, anomaly detection, and causal inference in Python. Identified unexpected degradation patterns and drove process improvements across experimental cycles.
 
 ---
 
 ### 🌐 Ganpat University — Ionospheric Earthquake Precursor Detection `Jun – Aug 2023`
-> Studied **10 major earthquakes (≥ M6.0)** and detected the same repeating anomaly pattern in the ionospheric layer across all cases — before each event. Developed a framework capable of flagging precursor signals **15–30 days before a major earthquake** strikes. Analyzed 30,000+ atmospheric and ionospheric records with time-series methods and statistical analysis in Python. This research demonstrates a viable geophysical early warning approach for earthquake-prone regions.
-
-</div>
+> Studied **10 major earthquakes (≥ M6.0)** and identified a consistent repeating anomaly pattern in the ionospheric layer appearing **before every single event**. Developed a detection framework capable of flagging precursor signals **15–30 days before** a major earthquake strikes. Processed 30,000+ atmospheric and ionospheric records using time-series analysis and statistical methods in Python. A viable geophysical early warning approach with real humanitarian potential.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -228,12 +228,12 @@ Pairs trading system with regime detection. Identifies market states to dynamica
 ```bash
 $ git log --all --oneline --graph
 
-*  a1f3c9e  (α)  [WIP]  Expanding trading engine — new strategy modules
-*  9d3b21f  (γ)  [WIP]  Regime-stat-arb — refining regime detection logic
-*  8b2e44f  (β)  [WIP]  Quantum matrix — scaling to larger Hilbert spaces
-*  3d9f12a  (δ)  [INIT] Next project — [ IN DEVELOPMENT ]
-*  f72a1bc  [READ] Causal inference applications in financial time-series
-*  c88e04a  [READ] Advanced materials degradation analysis
+*  a1f3c9e  (α)  [DEPLOYED]  algorithmic-trading-engine — live
+*  9d3b21f  (γ)  [WIP]       regime-stat-arb — refining regime detection
+*  8b2e44f  (β)  [CLEANUP]   quantum-matrix — finalizing for public release
+*  3d9f12a  (δ)  [INIT]      next project — [ IN DEVELOPMENT ]
+*  f72a1bc  [READ] causal inference in financial time-series
+*  c88e04a  [READ] supercapacitor degradation mechanisms
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -247,6 +247,7 @@ $ git log --all --oneline --graph
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
+║   🌐  gadhiyafalgun-arch.github.io/about-me              ║
 ║   📧  gadhiyafalgun.02@gmail.com                         ║
 ║   💼  linkedin.com/in/your-linkedin                      ║
 ║   🐙  github.com/gadhiyafalgun-arch                      ║
@@ -257,42 +258,8 @@ $ git log --all --oneline --graph
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<!-- Animated cursor crosshair - SVG animation that GitHub renders -->
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .ring1 { animation: spin 3s linear infinite; transform-origin: 60px 60px; }
-    .ring2 { animation: spin 5s linear infinite reverse; transform-origin: 60px 60px; }
-    .dot   { animation: pulse 1.5s ease-in-out infinite; transform-origin: 60px 60px; }
-    .cross { animation: fadecross 2s ease-in-out infinite; }
-    @keyframes spin      { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-    @keyframes pulse     { 0%,100% { opacity:1; r:5; } 50% { opacity:0.3; r:8; } }
-    @keyframes fadecross { 0%,100% { opacity:0.9; } 50% { opacity:0.3; } }
-  </style>
-  <!-- Outer dashed ring spinning -->
-  <circle class="ring1" cx="60" cy="60" r="48" fill="none" stroke="#00ff9f" stroke-width="1.5"
-          stroke-dasharray="8 6" />
-  <!-- Inner ring spinning reverse -->
-  <circle class="ring2" cx="60" cy="60" r="34" fill="none" stroke="#ff006e" stroke-width="1"
-          stroke-dasharray="4 8" />
-  <!-- Static target circle -->
-  <circle cx="60" cy="60" r="22" fill="none" stroke="#00ff9f" stroke-width="1" opacity="0.5" />
-  <!-- Crosshair lines -->
-  <g class="cross" stroke="#00ff9f" stroke-width="1.2" opacity="0.8">
-    <line x1="60" y1="4"  x2="60" y2="30" />
-    <line x1="60" y1="90" x2="60" y2="116" />
-    <line x1="4"  y1="60" x2="30" y2="60" />
-    <line x1="90" y1="60" x2="116" y2="60" />
-  </g>
-  <!-- Corner ticks -->
-  <g stroke="#ff006e" stroke-width="1.5" opacity="0.7">
-    <line x1="38" y1="38" x2="44" y2="44" />
-    <line x1="82" y1="38" x2="76" y2="44" />
-    <line x1="38" y1="82" x2="44" y2="76" />
-    <line x1="82" y1="82" x2="76" y2="76" />
-  </g>
-  <!-- Pulsing center dot -->
-  <circle class="dot" cx="60" cy="60" r="5" fill="#00ff9f" />
-</svg>
+<!-- Animated crosshair target SVG — GitHub-safe, no external style needed -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=00FF9F&center=true&vCenter=true&width=200&height=18&lines=%E2%97%8E+TARGET+ACQUIRED+%E2%97%8E" alt="target" />
 
 </div>
 
@@ -301,6 +268,43 @@ $ git log --all --oneline --graph
 <p align="center">
   <sub><!--LAST_UPDATED-->Last updated: Not updated yet<!--/LAST_UPDATED--></sub>
 </p>
+
+<!--
+  ╔══════════════════════════════════════════════════════╗
+  ║  SNAKE SETUP — run this once to enable the animation ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  1. Go to your profile repo: gadhiyafalgun-arch      ║
+  ║  2. Create folder: .github/workflows/                ║
+  ║  3. Create file: snake.yml with content below        ║
+  ║  4. Go to Settings > Actions > General               ║
+  ║     → set "Workflow permissions" to Read & Write     ║
+  ║  5. Run the workflow manually once from Actions tab  ║
+  ╚══════════════════════════════════════════════════════╝
+
+  snake.yml content:
+  ─────────────────
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: gadhiyafalgun-arch
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
 <p align="center">
   <picture>
