@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyberpunk header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,60:00ff9f,100:ff006e&height=240&section=header&text=FALGUN%20GADHIYA&fontSize=68&fontColor=00ff9f&fontAlignY=38&desc=%5B%20Physics%20%2F%2F%20Data%20Science%20%2F%2F%20Quant%20Systems%20%5D&descAlignY=60&descSize=18&animation=blinking" alt="Falgun Gadhiya" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,60:00ff9f,100:ff006e&height=240&section=header&text=FALGUN%20GADHIYA&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=%5B%20Physics%20%2F%2F%20Data%20Science%20%2F%2F%20Quant%20Systems%20%5D&descAlignY=60&descSize=18&animation=blinking&stroke=00ff9f&strokeWidth=2" alt="Falgun Gadhiya" />
 
 <!-- Terminal typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF9F&background=00000000&center=true&vCenter=true&width=780&height=55&lines=%24+whoami+%E2%86%92+M.S.+Physics+%7C+Quant+Dev+%7C+Data+Scientist;%24+ls+projects%2F+%E2%86%92+%CE%B1-trading-engine+%CE%B2-quantum-matrix+%CE%B3-regime-stat-arb;%24+status+%E2%86%92+Research+%E2%9C%94+Production+%E2%9C%94+Deployed+%E2%9C%94;%24+./run+--mode+unstoppable+%F0%9F%9A%80" alt="Typing SVG" />
@@ -38,7 +38,11 @@ class Falgun:
     superpower  = "Turning week-long manual calculations into 30-min automated pipelines"
     email       = "gadhiyafalgun.02@gmail.com"
 
-    research    = ["Quantum Systems", "Energy Storage Materials", "Ionospheric Physics"]
+    research    = [
+        "Quantum Systems        → automated Hilbert-space simulations from scratch",
+        "Supercapacitor R&D     → designed & rigorously tested novel electrode material",
+        "Ionospheric Seismology → detected pre-quake ionosphere anomalies; 15-30d warning"
+    ]
 
     projects    = {
         "α": "Full-Stack Algo Trading Engine    → solo build, end-to-end, deployed",
@@ -200,11 +204,18 @@ Pairs trading system with regime detection. Identifies market states to dynamica
 
 <div align="center">
 
-| Symbol | Institution | Domain | Scale | Period |
-|:------:|-------------|--------|-------|--------|
-| ⚛️ | **Pittsburg State University** | Quantum Matrix Automation | Hilbert-space scale simulations | 2025 |
-| ⚡ | **NIMA Research Facility** | Energy Storage Materials | ~10,000 datapoints | Jun 2023 – Aug 2025 |
-| 🌐 | **Ganpat University** | Ionospheric Physics | 30,000+ atmospheric records | Jun – Aug 2023 |
+### ⚛️ Pittsburg State University — Quantum Matrix Automation `2025`
+> Independently designed and built a Python automation framework for large-scale quantum matrix computations using NumPy/SciPy. Turned a week-long manual process into a 30-minute automated pipeline. Production-ready, fully documented, deployed.
+
+---
+
+### ⚡ NIMA Research Facility — Supercapacitor Material Development `Jun 2023 – Aug 2025`
+> Designed and rigorously executed systematic experiments to develop novel **supercapacitor electrode materials**. Used Design of Experiments (DOE) methodology — designing, testing, and iterating repeatedly to optimize conductivity, energy density, and cycle stability. Analyzed ~10,000 datapoints in Python (Pandas, SciPy) with regression, anomaly detection, and causal inference. Identified unexpected degradation patterns and used root cause analysis to improve material performance across iterations.
+
+---
+
+### 🌐 Ganpat University — Ionospheric Earthquake Precursor Detection `Jun – Aug 2023`
+> Studied **10 major earthquakes (≥ M6.0)** and detected the same repeating anomaly pattern in the ionospheric layer across all cases — before each event. Developed a framework capable of flagging precursor signals **15–30 days before a major earthquake** strikes. Analyzed 30,000+ atmospheric and ionospheric records with time-series methods and statistical analysis in Python. This research demonstrates a viable geophysical early warning approach for earthquake-prone regions.
 
 </div>
 
