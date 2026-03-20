@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Header with cyberpunk neon gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,60:00ff9f,100:ff006e&height=240&section=header&text=FALGUN%20GADHIYA&fontSize=68&fontColor=00ff9f&fontAlignY=38&desc=%5B%20Physics%20%2F%2F%20Data%20Science%20%2F%2F%20Quant%20Systems%20%5D&descAlignY=60&descSize=18&animation=blinking" alt="Falgun Gadhiya header" />
+<!-- Cyberpunk header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,60:00ff9f,100:ff006e&height=240&section=header&text=FALGUN%20GADHIYA&fontSize=68&fontColor=00ff9f&fontAlignY=38&desc=%5B%20Physics%20%2F%2F%20Data%20Science%20%2F%2F%20Quant%20Systems%20%5D&descAlignY=60&descSize=18&animation=blinking" alt="Falgun Gadhiya" />
 
-<!-- Glitch-style typing tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF9F&background=00000000&center=true&vCenter=true&width=750&height=55&lines=%24+whoami+%E2%86%92+M.S.+Physics+%7C+Quant+Dev+%7C+Data+Scientist;%24+ls+projects%2F+%E2%86%92+algo-trading-engine+quantum-matrix-tool;%24+status+%E2%86%92+Research+%E2%9C%94+Production+Code+%E2%9C%94+Deployed+%E2%9C%94;%24+./run+--mode+unstoppable+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Terminal typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=00FF9F&background=00000000&center=true&vCenter=true&width=780&height=55&lines=%24+whoami+%E2%86%92+M.S.+Physics+%7C+Quant+Dev+%7C+Data+Scientist;%24+ls+projects%2F+%E2%86%92+%CE%B1-trading-engine+%CE%B2-quantum-matrix+%CE%B3-regime-stat-arb;%24+status+%E2%86%92+Research+%E2%9C%94+Production+%E2%9C%94+Deployed+%E2%9C%94;%24+./run+--mode+unstoppable+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Neon badges -->
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadhiyafalgun.02@gmail.com)
 [![GitHub](https://img.shields.io/badge/%F0%9F%90%99_GitHub-00FF9F?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gadhiyafalgun-arch)
@@ -18,13 +17,17 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gadhiyafalgun-arch.gadhiyafalgun-arch&left_color=0d0d0d&right_color=00ff9f&left_text=VISITORS)
 
+<!-- Animated cursor crosshair SVG -->
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=2&width=100%" />
+
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `>> SYSTEM IDENTIFICATION`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `>> SYSTEM_IDENTIFICATION`
 
 ```python
 class Falgun:
@@ -36,59 +39,87 @@ class Falgun:
     email       = "gadhiyafalgun.02@gmail.com"
 
     research    = ["Quantum Systems", "Energy Storage Materials", "Ionospheric Physics"]
-    built       = ["Full-Stack Algo Trading Engine (solo)", "Quantum Matrix Automation Tool",
-                   "Materials Characterization Pipelines", "Ionospheric Data Frameworks"]
+
+    projects    = {
+        "α": "Full-Stack Algo Trading Engine    → solo build, end-to-end, deployed",
+        "β": "Quantum Matrix Automation Tool    → NumPy/SciPy, week→30min runtime",
+        "γ": "Regime-Switching Stat Arb         → pairs trading + regime detection",
+        "…": "More in development               → [ CLASSIFIED ]"
+    }
+
     stack       = ["Python", "NumPy", "SciPy", "Pandas", "Scikit-learn",
                    "SQL", "Snowflake", "Tableau", "Flask", "React", "Docker"]
 
-    def mission(self):
-        return "Research → Clean Code → Production. Every time."
+    def mission(self): return "Research → Clean Code → Production. Every time."
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> `>> FEATURED_PROJECTS [ 2 LOADED ]`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> `>> PROJECTS [ α β γ ]`
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<!-- ALPHA -->
+<td width="33%" valign="top">
 
-### 🔴 [`project-alpha`](https://github.com/gadhiyafalgun-arch/project-alpha) — Algo Trading Engine
+### **α** [`project-alpha`](https://github.com/gadhiyafalgun-arch/project-alpha)
+### Algo Trading Engine
 
-> **Solo build. End to end. No shortcuts.**
+> **Solo build. End to end.**
 
-A complete full-stack algorithmic trading system — designed, coded, backtested, and deployed entirely independently.
+Complete full-stack algorithmic trading system — designed, coded, backtested and deployed entirely independently.
 
-- 📊 Strategy design & backtesting pipelines
+- 📊 Strategy design & backtesting
 - ⚡ Live execution engine
-- 🖥️ Full-stack monitoring dashboard
-- 🚀 Deployed & tested in production
+- 🖥️ Full-stack dashboard
+- 🚀 Tested & deployed in prod
 
-Every layer — quant logic, backend API, frontend UI — built and shipped solo.
+Every layer — quant logic, API, UI — shipped solo.
 
 [![Stars](https://img.shields.io/github/stars/gadhiyafalgun-arch/project-alpha?color=ff006e&style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/project-alpha)
 [![Lang](https://img.shields.io/github/languages/top/gadhiyafalgun-arch/project-alpha?color=00ff9f&style=flat-square)](https://github.com/gadhiyafalgun-arch/project-alpha)
 
 </td>
-<td width="50%" valign="top">
+<!-- BETA -->
+<td width="33%" valign="top">
 
-### 🟢 [`project-beta`](https://github.com/gadhiyafalgun-arch/project-beta) — Quantum Matrix Automation
+### **β** [`project-beta`](https://github.com/gadhiyafalgun-arch/project-beta)
+### Quantum Matrix Automation
 
-> **Week-long calculation → 30-minute automated run.**
+> **Week → 30 minutes.**
 
-A Python framework for large-scale quantum mechanical computations using NumPy and SciPy.
+Python framework for large-scale quantum mechanical computation. Built to run simulations previously infeasible by hand.
 
-- ⚛️ Modular, vectorized computation engine
-- 🔬 High-dimensional dataset management
-- 📐 Numerical accuracy & integrity validated
-- 📦 Production-ready with full documentation
+- ⚛️ Modular vectorized engine
+- 🔬 High-dimensional data mgmt
+- 📐 Numerically validated
+- 📦 Production-ready + docs
 
 [![Stars](https://img.shields.io/github/stars/gadhiyafalgun-arch/project-beta?color=ff006e&style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/project-beta)
 [![Lang](https://img.shields.io/github/languages/top/gadhiyafalgun-arch/project-beta?color=00ff9f&style=flat-square)](https://github.com/gadhiyafalgun-arch/project-beta)
+
+</td>
+<!-- GAMMA -->
+<td width="33%" valign="top">
+
+### **γ** [`regime-stat-arb`](https://github.com/gadhiyafalgun-arch/regime-stat-arb)
+### Regime-Switching Stat Arb
+
+> **Market regimes × mean reversion.**
+
+Pairs trading system with regime detection. Identifies market states to dynamically adapt statistical arbitrage signals.
+
+- 📈 Regime detection engine
+- 🔗 Cointegration & pairs logic
+- 📉 Mean-reversion signals
+- 🐍 Pure Python, MIT licensed
+
+[![Stars](https://img.shields.io/github/stars/gadhiyafalgun-arch/regime-stat-arb?color=ff006e&style=flat-square&logo=github)](https://github.com/gadhiyafalgun-arch/regime-stat-arb)
+[![Lang](https://img.shields.io/github/languages/top/gadhiyafalgun-arch/regime-stat-arb?color=00ff9f&style=flat-square)](https://github.com/gadhiyafalgun-arch/regime-stat-arb)
 
 </td>
 </tr>
@@ -96,11 +127,19 @@ A Python framework for large-scale quantum mechanical computations using NumPy a
 
 </div>
 
+<div align="center">
+
+```
+[ δ ] [ ε ] [ ζ ] [ η ] ...  ██████░░░░ MORE PROJECTS IN DEVELOPMENT
+```
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## `>> TECH_STACK [ INITIALIZING... ]`
+## `>> TECH_STACK`
 
 <div align="center">
 
@@ -147,6 +186,10 @@ A Python framework for large-scale quantum mechanical computations using NumPy a
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadhiyafalgun-arch&theme=dark&ring=00ff9f&fire=ff006e&currStreakLabel=00ff9f&background=0d0d0d&border=00ff9f&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gadhiyafalgun-arch&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -155,25 +198,31 @@ A Python framework for large-scale quantum mechanical computations using NumPy a
 
 ## `>> RESEARCH_LOG`
 
-| # | Institution | Domain | Period |
-|---|-------------|--------|--------|
-| 🔬 | **Pittsburg State University** | Quantum Matrix Automation | 2025 |
-| ⚡ | **NIMA Research Facility** | Energy Storage Materials (~10K datapoints) | Jun 2023 – Aug 2025 |
-| 🌐 | **Ganpat University** | Ionospheric Physics (30K+ records) | Jun – Aug 2023 |
+<div align="center">
+
+| Symbol | Institution | Domain | Scale | Period |
+|:------:|-------------|--------|-------|--------|
+| ⚛️ | **Pittsburg State University** | Quantum Matrix Automation | Hilbert-space scale simulations | 2025 |
+| ⚡ | **NIMA Research Facility** | Energy Storage Materials | ~10,000 datapoints | Jun 2023 – Aug 2025 |
+| 🌐 | **Ganpat University** | Ionospheric Physics | 30,000+ atmospheric records | Jun – Aug 2023 |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## `>> CURRENTLY_BUILDING`
+## `>> GIT_LOG --oneline`
 
 ```bash
-$ git log --oneline --all
+$ git log --all --oneline --graph
 
-a1f3c9e  [WIP]  Expanding algo trading engine — new strategy modules
-8b2e44f  [WIP]  Quantum matrix framework — scaling to larger Hilbert spaces
-3d9f12a  [IDEA] Causal inference models applied to financial time-series
-f72a1bc  [READ] Advanced materials degradation via observational data analysis
+*  a1f3c9e  (α)  [WIP]  Expanding trading engine — new strategy modules
+*  9d3b21f  (γ)  [WIP]  Regime-stat-arb — refining regime detection logic
+*  8b2e44f  (β)  [WIP]  Quantum matrix — scaling to larger Hilbert spaces
+*  3d9f12a  (δ)  [INIT] Next project — [ IN DEVELOPMENT ]
+*  f72a1bc  [READ] Causal inference applications in financial time-series
+*  c88e04a  [READ] Advanced materials degradation analysis
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -185,17 +234,54 @@ f72a1bc  [READ] Advanced materials degradation via observational data analysis
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   📧  gadhiyafalgun.02@gmail.com                        │
-│   💼  linkedin.com/in/your-linkedin                     │
-│   🐙  github.com/gadhiyafalgun-arch                     │
-│   📍  Pittsburg, KS, USA                                │
-│                                                         │
-│        > Open to: Data Science · Quant · Research       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   📧  gadhiyafalgun.02@gmail.com                         ║
+║   💼  linkedin.com/in/your-linkedin                      ║
+║   🐙  github.com/gadhiyafalgun-arch                      ║
+║   📍  Pittsburg, KS, USA                                 ║
+║                                                          ║
+║     > Open to: Data Science · Quant Dev · Research       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+<!-- Animated cursor crosshair - SVG animation that GitHub renders -->
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ring1 { animation: spin 3s linear infinite; transform-origin: 60px 60px; }
+    .ring2 { animation: spin 5s linear infinite reverse; transform-origin: 60px 60px; }
+    .dot   { animation: pulse 1.5s ease-in-out infinite; transform-origin: 60px 60px; }
+    .cross { animation: fadecross 2s ease-in-out infinite; }
+    @keyframes spin      { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes pulse     { 0%,100% { opacity:1; r:5; } 50% { opacity:0.3; r:8; } }
+    @keyframes fadecross { 0%,100% { opacity:0.9; } 50% { opacity:0.3; } }
+  </style>
+  <!-- Outer dashed ring spinning -->
+  <circle class="ring1" cx="60" cy="60" r="48" fill="none" stroke="#00ff9f" stroke-width="1.5"
+          stroke-dasharray="8 6" />
+  <!-- Inner ring spinning reverse -->
+  <circle class="ring2" cx="60" cy="60" r="34" fill="none" stroke="#ff006e" stroke-width="1"
+          stroke-dasharray="4 8" />
+  <!-- Static target circle -->
+  <circle cx="60" cy="60" r="22" fill="none" stroke="#00ff9f" stroke-width="1" opacity="0.5" />
+  <!-- Crosshair lines -->
+  <g class="cross" stroke="#00ff9f" stroke-width="1.2" opacity="0.8">
+    <line x1="60" y1="4"  x2="60" y2="30" />
+    <line x1="60" y1="90" x2="60" y2="116" />
+    <line x1="4"  y1="60" x2="30" y2="60" />
+    <line x1="90" y1="60" x2="116" y2="60" />
+  </g>
+  <!-- Corner ticks -->
+  <g stroke="#ff006e" stroke-width="1.5" opacity="0.7">
+    <line x1="38" y1="38" x2="44" y2="44" />
+    <line x1="82" y1="38" x2="76" y2="44" />
+    <line x1="38" y1="82" x2="44" y2="76" />
+    <line x1="82" y1="82" x2="76" y2="76" />
+  </g>
+  <!-- Pulsing center dot -->
+  <circle class="dot" cx="60" cy="60" r="5" fill="#00ff9f" />
+</svg>
 
 </div>
 
@@ -218,5 +304,5 @@ f72a1bc  [READ] Advanced materials degradation via observational data analysis
 </p>
 
 <p align="center">
-  <sub>⚡ Built with precision. Deployed with purpose.</sub>
+  <sub>⚡ Built with precision. Deployed with purpose. — α β γ and counting.</sub>
 </p>
