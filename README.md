@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF006E?style=for-the-badge&logoColor=white)](https://gadhiyafalgun-arch.github.io/about-me)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/falgun-gadhiya-47a563346)
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00ff9f)](mailto:gadhiyafalgun.02@gmail.com)
 [![GitHub](https://img.shields.io/badge/%F0%9F%90%99_GitHub-00FF9F?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gadhiyafalgun-arch)
 [![Resume](https://img.shields.io/badge/%F0%9F%93%84_Resume-1a1a2e?style=for-the-badge&logo=adobeacrobatreader&logoColor=00ff9f)](link-to-resume.pdf)
