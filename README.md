@@ -38,7 +38,7 @@ class Falgun:
 
     research    = [
         "Quantum Systems        → automated large-scale Hilbert-space simulations",
-        "Supercapacitor R&D     → designed, built & rigorously tested novel electrode material",
+        "Supercapacitor R&D     → designed, built & rigorously tested novel energy storage material",
         "Ionospheric Seismology → detected pre-earthquake anomalies; 15-30 day warning system"
     ]
 
