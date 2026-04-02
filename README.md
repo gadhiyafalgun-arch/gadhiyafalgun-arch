@@ -45,7 +45,7 @@ class Falgun:
     projects    = {
         "α": "Algorithmic Trading Engine  → solo build, end-to-end, deployed",
         "β": "Quantum Matrix Automation   → NumPy/SciPy, week → 30min runtime, contact me to see",
-        "γ": "Regime-Switching Stat Arb   → pairs trading + regime detection, its on m repo",
+        "γ": "Regime-Switching Stat Arb   → pairs trading + regime detection, its on my repo",
         "…": "More in development         → [ CLASSIFIED ]"
     }
 
